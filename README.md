@@ -9,7 +9,7 @@
 ## Structure du projet
 
 ```
-projet-i2/
+First_ML_Project
 │
 ├── data/
 │   ├── simu.txt            # 2000 observations — régression binaire
@@ -17,14 +17,12 @@ projet-i2/
 │   ├── voitures.txt        # Données voitures 2015
 │   └── chiens.txt          # Caractéristiques races de chiens
 │
-├── code/
-│   ├── 01_regression_binaire.R
-│   ├── 02_acp_voitures.R
-│   ├── 03_classification.R
-│   └── 04_acm_chiens.R
+├── exo 1 : 01_regression_binaire.R
+├── exo 2 : 02_acp_voitures.R
+├── exo 3 : 03_classification.R
+├── exo 4 : 04_acm_chiens.R
 │
-├── predictions.txt         # Prédictions Y pour xsimutest (1000 lignes)
-└── rapport.pdf             # Rapport final
+└── Rapport            # Rapport final et consignes
 ```
 
 ---
